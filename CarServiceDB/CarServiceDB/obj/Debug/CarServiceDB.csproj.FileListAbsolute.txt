@@ -1,0 +1,14 @@
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\bin\Debug\CarServiceDB.exe.config
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\bin\Debug\CarServiceDB.exe
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\bin\Debug\CarServiceDB.pdb
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\obj\Debug\CarServiceDB.MainForm.resources
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\obj\Debug\CarServiceDB.Properties.Resources.resources
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\obj\Debug\CarServiceDB.csproj.GenerateResource.cache
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\obj\Debug\CarServiceDB.csproj.CoreCompileInputs.cache
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\obj\Debug\CarServiceDB.exe
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\obj\Debug\CarServiceDB.pdb
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\obj\Debug\CarServiceDB.csprojAssemblyReference.cache
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\obj\Debug\CarServiceDB.AddNewCall.resources
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\obj\Debug\CarServiceDB.AddNewService.resources
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\obj\Debug\CarServiceDB.AddNewClient.resources
+C:\Users\zujko\source\repos\CarServiceDB\CarServiceDB\obj\Debug\CarServiceDB.AddNewWorker.resources
